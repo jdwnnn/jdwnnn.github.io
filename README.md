@@ -1,4 +1,4 @@
-# Jeremiah Winford — Portfolio
+# My Portfolio
 
 Personal portfolio site built with Next.js + Tailwind CSS, deployed to GitHub Pages.
 
